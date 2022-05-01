@@ -1,6 +1,6 @@
 # OOP-HW2
 draw a circle
 
-1.  원의 정보를 CCircle class로 정의하고, 원의 위치와 크기를 입력 받아 원을 해당 위치에 출력함
-2.  랜덤(random)한 위치와 랜덤한 반지름으로 화면에 10개의 원들을 출력함
-3.  생성할 원의 수를 입력 받아 화면에 다수의 원들을 랜덤하게 출력하고 원의 크기를 출력함
+1.  The circle information is defined as a circle class, and the position and size of the circle are input and the circle is output to the corresponding location
+2.  Prints 10 circles on the screen with random positions and random radius
+3.  Input the number of circles to be created, randomly output a number of circles on the screen, and output the size of the circles
